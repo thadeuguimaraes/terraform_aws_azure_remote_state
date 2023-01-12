@@ -16,7 +16,7 @@ Este projeto tem como objetivo criar um estado remoto compartilhado entre Terraf
 3. Edite o arquivo `main.tf` para especificar o armazenamento de estado do Azure que deseja usar
 4. Execute o comando `terraform init` para baixar os módulos necessários
 5. Execute o comando `terraform apply` para criar o estado remoto compartilhado
-6. Execute o comando `terraform destroy` para destruir toda a infraestrutura nas clouds AWS e Azure.
+6. Execute o comando `terraform destroy` para destruir todos os recursos provisionados nas clouds AWS e Azure.
 
 ## Considerações
 
